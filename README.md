@@ -2,9 +2,9 @@
 
 Vamos iniciar a trabalhar em equipe usando git e github. Assim:
 
-* Clone este repositório, crie um repositório no github, ajuste as configurações para que todos do grupo sejam colaboradores e possam atualizar o mesmo, a configure seu repositório local para que ele sincronize com o novo repositório remoto:
-  * ```git remote set-url origin link-do-seu-github```
-* Em grupos de 3 pessoas, desenvolva uma classe que implementa os métodos descritos abaixo:
+* Faça um fork deste repositório, ajuste as configurações para que todos do grupo sejam colaboradores e possam atualizar o mesmo;
+  
+* Em grupos de até 3 pessoas, desenvolva uma classe que implementa os métodos descritos abaixo:
 
 ```
         a. Método que retorna quantas ocorrências de um elemento estão na lista
