@@ -26,6 +26,7 @@ Vamos iniciar a trabalhar em equipe usando git e github. Assim:
 
   * Organize o grupo de forma que uma pessoa desenvolva os métodos "a" e "d", outra o "b" e "e" e outra o "c" e "f".
   * A cada método finalizado, faça commit e compartilhe no github. Lembre-se: se alguém tiver atualizado o repositório anteriormente, 
-será necessário fazer o "pull" e resolver os conflitos.
+será necessário fazer o "pull" e resolver os conflitos;
+  * O esqueleto da classe já está criado. Desenvolva os métodos ali.
 
 No final, compartilhe o link no forum do moodle.
