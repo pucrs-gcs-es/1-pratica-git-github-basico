@@ -1,8 +1,6 @@
 # Prática de Git e Github Básico
 
 Vamos iniciar a trabalhar em equipe usando git e github. Assim:
-
-* Faça um fork deste repositório, ajuste as configurações para que todos do grupo sejam colaboradores e possam atualizar o mesmo;
   
 * Em grupos de até 3 pessoas, desenvolva uma classe que implementa os métodos descritos abaixo:
 
